@@ -1,0 +1,10 @@
+asgiref==3.13.0
+autopep8==2.3.2
+Django==6.1.2
+django-stubs==6.1.2
+django-stubs-ext==6.1.2
+pycodestyle==2.15.0
+sqlparse==0.6.0
+types-PyYAML==6.0.12.20261030
+typing_extensions==4.16.0
+tzdata==2026.5
